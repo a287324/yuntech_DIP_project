@@ -1,0 +1,1 @@
+為什麼nonmaximum suppression的0度和90度方向要向垂直方向去壓制?nonmaximum suppression就是要向邊緣的垂直方向去找出最大值，而0度和90度本身已經是邊緣的垂直方向了!
